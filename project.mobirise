@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "DreamValleyApartments",
+    "name": "DreamValleyLuxuryApartments",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -210,6 +210,24 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "B": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            },
+            "H5": {
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
+            }
+          },
           "_anchor": "features3-4",
           "_params": {
             "paddingTop": 2,
@@ -320,25 +338,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "B": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "left"
-            },
-            "H5": {
-              "font-size": "16px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "center"
-            },
-            "SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#000000"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -397,6 +397,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-8",
           "_params": {
             "labelsColor": "#232323",
@@ -442,12 +447,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -506,6 +506,14 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "SPAN": {
+              "color": "#c0a375"
+            },
+            "P": {
+              "color": "#c0a375"
+            }
+          },
           "_anchor": "contacts1-9",
           "_params": {
             "paddingTop": 3,
@@ -536,16 +544,8 @@
             }
           },
           "text1": "<strong>Address</strong><br><strong><br></strong>Gopee Lan at Mon Desir,&nbsp;Vacoas<br>&nbsp;",
-          "text2": "<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: +230 57 94 64 37</span><br><br><br>",
-          "text3": "<p><strong>Links</strong><br>SmartMedia.Agency<br><a href=\"http://Homes.mu\" target=\"_blank\">Homes.mu</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">WayHomeApp.com<br></span><br><br></p>",
-          "_styles": {
-            "SPAN": {
-              "color": "#c0a375"
-            },
-            "P": {
-              "color": "#c0a375"
-            }
-          }
+          "text2": "<strong>Contacts</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">5794 6437</span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">5920 5538 </span><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">5703 6621&nbsp;<br></span><br><br><br>",
+          "text3": "<p><strong>Links</strong><br><a href=\"http://SmartMedia.Agency\" target=\"_blank\">SmartMedia.Agency</a><br><a href=\"http://Homes.mu\" target=\"_blank\">Homes.mu</a><br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><a href=\"http://WayHomeApp.com\" target=\"_blank\">WayHomeApp.com</a><br></span><br><br></p>"
         }
       ]
     }
