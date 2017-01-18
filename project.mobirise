@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "3.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/dreamvalley3d-128x96.png",
     "noImageResize": ""
@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dreamvalley3d-170x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-536x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -522,6 +522,68 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15418353-229454857495803-5152802371266493774-o-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15418353-229454857495803-5152802371266493774-o-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15419756-229455314162424-3868661434366118193-o-2000x1125-1-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15419756-229455314162424-3868661434366118193-o-2000x1125-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-g",
+          "articleLayout": false,
+          "allItem": "All"
         },
         {
           "_tags": [
