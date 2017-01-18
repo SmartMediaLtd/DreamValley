@@ -168,7 +168,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Smart Living Technology</span><br><br>",
+                "title": "<span style=\"line-height: 1.1;\">Smart Living Technology</span><br><br>",
                 "showText": true,
                 "text": "Remote controlled curtains and 7 smart wifi points around the apartments<br><br>",
                 "showButtons": false,
