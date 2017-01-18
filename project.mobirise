@@ -231,7 +231,7 @@
           "_anchor": "features3-4",
           "_params": {
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -398,7 +398,7 @@
           },
           "title2": "Valletting &amp; Delivery",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Your will enjoy onsite delivery of bread, vegetables, gas storage and valleting for your car.<br>You will have 24/7 security<br>",
+          "caption2": "You will enjoy onsite delivery of bread, vegetables, gas storage and valleting for your car.<br>Onsite 24/7 security<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -414,7 +414,7 @@
           },
           "title3": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Elevator</span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We have 2 lift and wide stairs for a safe and sound circulation of your familly and removables.<br>There will also have dryers for your clothes&nbsp;<br>",
+          "caption3": "We have 2 lift and wide stairs for a safe and sound circulation of your familly and removables.&nbsp;There will also have dryers for your clothes&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
