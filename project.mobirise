@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.8",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "3.10.8",
     "favicon": "@PROJECT_PATH@/assets/images/dreamvalley3d-128x96.png",
     "noImageResize": ""
@@ -264,7 +264,7 @@
             }
           },
           "title1": "Modern Designs<br>&nbsp;",
-          "subtitle1": "<span style=\"font-style: normal;\">Furniture pack avaiable from LG/ARISTON<br></span><br><br>",
+          "subtitle1": "<span style=\"font-style: normal;\">Bright rooms</span><br><span style=\"font-style: normal;\">Beautiful views<br></span><span style=\"font-style: normal;\">Furniture pack avaiable&nbsp;<br></span><br><br>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
@@ -281,7 +281,7 @@
           },
           "title2": "American Kitchen",
           "subtitle2": "",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Top and bottom kitchen furniture included </span><br><br>",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">Top and bottom kitchen furniture included </span><br>Electromenager pack from LG/ARISTON<br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -313,7 +313,7 @@
           },
           "title4": "Open Dining&nbsp;",
           "subtitle4": "",
-          "caption4": "120m2&nbsp;",
+          "caption4": "Total area 120m2<br>Balcony &amp; RoofTop",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -338,6 +338,131 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-d",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "map-signs",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Ideal Location",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "DrreamValley is located in a very quiet lane in the center of Vacoas. A very central area which is minutes from all main amenties and main roads.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "truck",
+              "family": "FontAwesome",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title2": "Valletting &amp; Delivery",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Your will enjoy onsite delivery of bread, vegetables, gas storage and valleting for your car.<br>You will have 24/7 security<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "elevator",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Elevator</span><br>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We have 2 lift and wide stairs for a safe and sound circulation of your familly and removables.<br>There will also have dryers for your clothes,&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "office-chair",
+              "family": "icon54-v2",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Office / Conference&nbsp;",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "2 offices and a conference room will be available for all your business meetings without compromising the privacy of your apartment .",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pool",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title5": "Swimming Pool",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "There will also be an indoor Swimming Pool, with a Sauna as well as fully equipped Gym and Kids Zone for the best executive lifestyle.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "water-tap",
+              "family": "icon54",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title6": "Water Storage",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "There is a 20,000 litre water tank for the storage and supply&nbsp;of fresh water for any water shortage for all 55 apartments owners and common areas.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
