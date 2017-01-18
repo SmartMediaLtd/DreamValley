@@ -373,27 +373,28 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "map-signs",
-              "family": "FontAwesome",
+              "name": "favorit-location",
+              "family": "icon54",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "120",
               "newWindow": false
             }
           },
           "title1": "Ideal Location",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "DrreamValley is located in a very quiet lane in the center of Vacoas. A very central area which is minutes from all main amenties and main roads",
+          "caption1": "DreamValley is located in a very quiet lane in the center of Vacoas. A very central area which is minutes from all main amenties and main roads<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "truck",
-              "family": "FontAwesome",
+              "name": "delivery",
+              "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0
+              "link": "",
+              "size": "120",
+              "newWindow": false
             }
           },
           "title2": "Valletting &amp; Delivery",
@@ -408,7 +409,7 @@
               "family": "icon54-v2",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "120",
               "newWindow": false
             }
           },
@@ -424,7 +425,7 @@
               "family": "icon54-v2",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "120",
               "newWindow": false
             }
           },
@@ -440,7 +441,7 @@
               "family": "iconsMind",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "120",
               "newWindow": false
             }
           },
@@ -456,7 +457,7 @@
               "family": "icon54",
               "active": true,
               "link": "",
-              "size": 0,
+              "size": "120",
               "newWindow": false
             }
           },
