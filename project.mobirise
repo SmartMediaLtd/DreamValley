@@ -348,8 +348,8 @@
           "_name": "features6",
           "_anchor": "features6-d",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -367,7 +367,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -383,7 +383,7 @@
           },
           "title1": "Ideal Location",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "DrreamValley is located in a very quiet lane in the center of Vacoas. A very central area which is minutes from all main amenties and main roads.",
+          "caption1": "DrreamValley is located in a very quiet lane in the center of Vacoas. A very central area which is minutes from all main amenties and main roads",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -414,7 +414,7 @@
           },
           "title3": "<span style=\"color: inherit; font-size: 1.25rem; line-height: 1.2825;\">Elevator</span><br>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We have 2 lift and wide stairs for a safe and sound circulation of your familly and removables.<br>There will also have dryers for your clothes,&nbsp;<br>",
+          "caption3": "We have 2 lift and wide stairs for a safe and sound circulation of your familly and removables.<br>There will also have dryers for your clothes&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
