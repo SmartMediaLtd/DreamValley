@@ -191,7 +191,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">3 Bedrooms&nbsp;</span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">1 Ensuite</span><br><br>",
+                "title": "<br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-weight: normal;\"><span style=\"font-size: 4.39rem; line-height: 1.1;\">3 Bedrooms&nbsp;</span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">1 Ensuite</span></span><br><br>",
                 "showText": true,
                 "text": "All rooms comes double glazed windows and hardwood flooring. &nbsp;<br><br>",
                 "showButtons": false,
@@ -203,7 +203,12 @@
             "showBullets": true
           },
           "_anchor": "slider-b",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "SPAN": {
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
@@ -531,8 +536,8 @@
           "_anchor": "form1-8",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

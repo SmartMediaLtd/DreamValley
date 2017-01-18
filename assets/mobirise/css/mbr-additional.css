@@ -479,6 +479,9 @@ h6,
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#slider-b SPAN {
+  font-size: 60px;
+}
 #features3-4 B {
   font-family: 'Raleway', sans-serif;
   text-align: left;
