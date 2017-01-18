@@ -567,8 +567,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15440311-229455310829091-4443452744114715628-o-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15541094-229455120829110-7196795100792213103-o-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15541094-229455120829110-7196795100792213103-o-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
